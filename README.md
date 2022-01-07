@@ -70,4 +70,80 @@ HOUSE CATERGORY 1,BENEFICIARIES.
        - Block B.
        
        - Cluster 6.
+
+ HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
+ 
+  1.KONGA MAGRATE;
+       - Aged 24yrs.
+       - Disabled.
+       - Single mother.
+       - Two children.
+  
+   2.CHANDIA JOSEPHINE;
+       - Aged 30yrs.
+       - Disabled.
+       - Single mother.
+       - Six children.
+  
+    3.KEJI JENIFER;
+       - Aged 77yrs.
+       - Female.
+       - Disabled.
+       - Three children.
+   4.ANTONY ONEN;
+       - Aged 75yrs.
+       - Male.
+       - Disabled.
+       - Cluster 20.
+       - Block E.
+HOUSE CATERGORY 3,BENEFICIARY DETAILS;
+    1.PITA BETTY;
+        - Aged 44yrs.
+        - Female.
+        - Block F.
+        - Cluster 47.
+        - Single mother.
+        - Five children
+ 
+    The grass of the house replaced,door fixed and painted.
+     2.VIOLA JUAN;
+        - Aged 82yrs.
+        - Female.
+        - Single mother.
+        - Disabled.
+        - Block D.
+        - Cluster 28.
+  The grass replaced,door fixed,painted and the house smeared.
+   
+     3.GALE MAGRATE;
+        - Aged 77yrs.
+        - Disabled.
+        - Block E.
+        - Cluster 29.
+  The grass replaced, door fixed,painted and the house smeared.
+    
+     4.RAFAILA DRATE MONTA;
+        - Aged 69yrs.
+        - Single mother.
+        - Block F.
+        - Cluster 37.
+  The grass replaced and the door painted.
+
+  DIRECT BENEFICIARIES OF THE PROJECT,YOUTH AGED BETWEEN 18 AND 30YRS.
+   
+        - Konga MAGRATE,female,24yrs.
+        - Chandia Josephine,female,30yrs
+        - Keji Grace,female,five children,single mother.
+   
+  INDIRECT BENEFICIARIES;
+ 
+ Mansions,Assistant,Transporters, Catering service providers,communities,
+ 
+ the local materials such as grass were purchased from the locals with in the community.
+
+
+
+    
+
+
        
