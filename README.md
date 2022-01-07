@@ -11,12 +11,20 @@ The 12 houses were divided into three catergories as follows;
     3.Grass thatched houses whose grasses require replacement.
 
 HOUSE CATERGORY 1,BENEFICIARIES.
+
  1.KEJI GRACE;
+    
      - Aged 28yrs.
+     
      - Female.
+     
+      
      - Block B.
+     
      - Cluster.
+    
      - Single mother.
+    
      - Five children.
     
  2.ANTAZO LURI;
