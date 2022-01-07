@@ -164,11 +164,19 @@ HOUSE CATERGORY 3,BENEFICIARY DETAILS;
   Agojo etc,That has similar PSN problems.
 - Employment opportunities.
 - Lessons learned.
- ACHIEVEMENTS;
+ 
+ACHIEVEMENTS;
 - The project is successfully done.
 - It is financially managed.
 - Some skills achieved.
 - The covered PSN groups saved from natural hazards such as rain.
+CHALLENGES;
+- The short implementation period.
+- Inadequate supervision by the UNHCR engineers.
+- Transport hiking.
+-Labour shortage,most of the refugee youths are unskilled, as a result the POC 
+ Lead organisation opted for outside mansions.
+- Lack of coordination between POC lead organisation and stakeholders.
 
 
 
