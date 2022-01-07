@@ -159,7 +159,16 @@ HOUSE CATERGORY 3,BENEFICIARY DETAILS;
    hardware operators and the host community as local materials such as grass were purchased from them.
 
   LONG TERM;
-- 
+- Capacity building for the POC lead organisation.
+- Expansion of the PNS project to the neighbouring refugee settlements, such as Ayilo,Nyumajji,
+  Agojo etc,That has similar PSN problems.
+- Employment opportunities.
+- Lessons learned.
+ ACHIEVEMENTS;
+- The project is successfully done.
+- It is financially managed.
+- Some skills achieved.
+- The covered PSN groups saved from natural hazards such as rain.
 
 
 
