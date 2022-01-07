@@ -140,6 +140,9 @@ HOUSE CATERGORY 3,BENEFICIARY DETAILS;
  Mansions,Assistant,Transporters, Catering service providers,communities,
  
  the local materials such as grass were purchased from the locals with in the community.
+ 
+  OVERALL IMPACTS OF THE PROJECT.
+  SHORT TERM;
 
 
 
