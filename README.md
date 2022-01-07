@@ -177,6 +177,15 @@ CHALLENGES;
 -Labour shortage,most of the refugee youths are unskilled, as a result the POC 
  Lead organisation opted for outside mansions.
 - Lack of coordination between POC lead organisation and stakeholders.
+- Child protection issues raised by the communities during the PNS project motoring
+  and assessment.
+- Most of the PNS communities lack waste management systems e.g latrines and dustbins.
+- POC lead organisation lacks technical personels for particular projects.
+ 
+  FUTURE OPPORTUNITIES
+- To skill the refugee communities to overcome the problems of labour shortage,skills like building
+  Construction, brick laying and concrete practices,electronic engineering ,to mention but afew.
+- To organise mass mobilisation and awareness to communities about the dangers of poor waste management systems.
 
 
 
