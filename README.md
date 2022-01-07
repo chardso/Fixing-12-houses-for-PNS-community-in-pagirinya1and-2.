@@ -6,9 +6,11 @@ The 12 houses were divided into three catergories as follows;
      
     1.Houses whose roof,windows and doors are not fixed.
    
+    
     2.Houses whose interior plastering and scridding are not done.
     
-    3.Grass thatched houses whose grasses require replacement.
+   
+     3.Grass thatched houses whose grasses require replacement.
 
 HOUSE CATERGORY 1,BENEFICIARIES.
 
@@ -30,25 +32,42 @@ HOUSE CATERGORY 1,BENEFICIARIES.
  2.ANTAZO LURI;
 
       - Aged 73yrs.
+      
       - Female.
+      
       - Disabled.
+     
       - Block A.
+      
       - Cluster 2.
+     
       - Single mother.
 
  3.OLGA ALIA;
+       
        - Aged 66yrs.
+       
        - Female.
+       
        - Disabled
+       
        - Block B.
+       
        - Cluster 7.
+       
        - Single mother.
  
  4.REBECCA OPIA;
+      
        - Aged 44yrs.
+       
        - Female.
+       
        - Disabled.
+      
        - Three children.
+      
        - Block B.
+       
        - Cluster 6.
        
