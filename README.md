@@ -142,7 +142,27 @@ HOUSE CATERGORY 3,BENEFICIARY DETAILS;
  the local materials such as grass were purchased from the locals with in the community.
  
   OVERALL IMPACTS OF THE PROJECT.
+ 
   SHORT TERM;
+ 
+ - Improved the relationship between the POC lead organisation and the refugee community.
+ 
+ - Improved the standard of living for the households involved.
+ 
+ - Reduced the high rate of idleness and disorderliness among the refugee youths.
+ 
+ - Few households coverage has raised concerns among the refugee community, 
+   Urging UNHCR to increase on the number of households in case the same project-
+   happens to surface again in the near future.
+ 
+ - Source of income for the indirect beneficiaries such as transporters,mansions,assistants,
+   hardware operators and the host community as local materials such as grass were purchased from them.
+
+  LONG TERM;
+
+
+
+ 
 
 
 
