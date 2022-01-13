@@ -1,6 +1,7 @@
 # Fixing-12-houses-for-PSN-community-in-pagirinya1and-2.
 A project given to the POC led organisation,Youth empowerment foundation,located in pagirinya refugee settlement,targeting a population of 60people,with an actual implementation period of 30days.
-PSN ;stands for people with special needs.
+
+PSN;stands for people with special needs.
 
 The 12 houses were divided into three catergories as follows;
 
