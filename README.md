@@ -2,60 +2,61 @@
 A project given to the POC lead organisation,Youth empowerment foundation,located in pagirinya refugee settlement,targeting a population of 60people,with an actual implementation period of 30days.
 
 The 12 houses were divided into three catergories as follows;
+
    
-     
-    1.Houses whose roof,windows and doors are not fixed.
+ 1.Houses whose roof,windows and doors are not fixed.
    
     
-    2.Houses whose interior plastering and scridding are not done.
+ 2.Houses whose interior plastering and scridding are not done.
     
    
-     3.Grass thatched houses whose grasses require replacement.
+ 3.Grass thatched houses whose grasses require replacement.
 
 HOUSE CATERGORY 1,BENEFICIARIES.
 
  1.KEJI GRACE;
     
-     - Aged 28yrs.
+- Aged 28yrs.
      
-     - Female.
+- Female.
      
       
-     - Block B.
+- Block B.
      
-     - Cluster.
+- Cluster.
     
-     - Single mother.
+- Single mother.
     
-     - Five children.
+ 
+- Five children.
     
  2.ANTAZO LURI;
 
-      - Aged 73yrs.
+- Aged 73yrs.
       
-      - Female.
+- Female.
       
-      - Disabled.
+- Disabled.
      
-      - Block A.
+- Block A.
       
-      - Cluster 2.
+- Cluster 2.
      
-      - Single mother.
+- Single mother.
 
  3.OLGA ALIA;
        
-       - Aged 66yrs.
+- Aged 66yrs.
        
-       - Female.
+- Female.
        
-       - Disabled
+- Disabled
        
-       - Block B.
-       
-       - Cluster 7.
-       
-       - Single mother.
+- Block B  
+
+- Cluster 7.
+
+- Single mother.
  
  4.REBECCA OPIA;
       
