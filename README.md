@@ -3,7 +3,6 @@ A project given to the POC led organisation,Youth empowerment foundation,located
 
 The 12 houses were divided into three catergories as follows;
 
-   
  1.Houses whose roof,windows and doors are not fixed.
    
     
