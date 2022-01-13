@@ -210,7 +210,7 @@ The grass replaced,door fixed,painted and the house smeared.
 
   LONG TERM;
 
-- Capacity building for the POC lead organisation.
+- Capacity building for the refugee and the host community.
 
 - Expansion of the PNS project to the neighbouring refugee settlements, such as Ayilo,Nyumajji,
   Agojo etc,That has similar PSN problems.
