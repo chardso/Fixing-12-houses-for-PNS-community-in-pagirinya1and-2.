@@ -212,7 +212,7 @@ The grass replaced,door fixed,painted and the house smeared.
 
 - Capacity building for the refugee and the host community.
 
-- Expansion of the PNS project to the neighbouring refugee settlements, such as Ayilo,Nyumajji,
+- Expansion of the PSN project to the neighbouring refugee settlements, such as Ayilo,Nyumajji,
   Agojo etc,That has similar PSN problems.
 
 - Employment opportunities.
@@ -240,7 +240,7 @@ CHALLENGES;
 -Labour shortage,most of the refugee youths are unskilled, as a result the POC 
  Lead organisation opted for outside mansions.
 
-- Lack of coordination between POC lead organisation and stakeholders.
+- Lack of coordination between POC led organisation and stakeholders.
 
 - Child protection issues raised by the communities during the PNS project motoring
   and assessment.
