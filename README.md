@@ -30,7 +30,8 @@ The 12 houses were divided into three catergories as follows;
     
  
 - Five children.
-MODALITIES;
+
+ MODALITIES;
 
     
  2.ANTAZO LURI;
@@ -46,6 +47,7 @@ MODALITIES;
 - Cluster 2.
      
 - Single mother.
+ 
 MODALITIES;
 
  3.OLGA ALIA;
@@ -61,6 +63,7 @@ MODALITIES;
 - Cluster 7.
 
 - Single mother.
+ 
 MODALITIES;
  
  4.REBECCA OPIA; 
@@ -76,6 +79,7 @@ MODALITIES;
 - Block B.
 
 - Cluster 6.
+ 
 MODALITIES;
 
  HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
@@ -89,6 +93,7 @@ MODALITIES;
 - Single mother.
       
 - Two children.
+ 
 MODALITIES;
   
    2.CHANDIA JOSEPHINE;
@@ -100,6 +105,7 @@ MODALITIES;
 - Single mother.
        
 - Six children.
+ 
 MODALIES;
   
     3.KEJI JENIFER;
@@ -111,6 +117,7 @@ MODALIES;
  - Disabled.
        
 - Three children.
+ 
 MODALITIES;
   
  4.ANTONY ONEN;
@@ -124,6 +131,7 @@ MODALITIES;
 - Cluster 20.
       
  - Block E.
+ 
 MODALITIES;
 
    HOUSE CATERGORY 3,BENEFICIARY DETAILS;
@@ -141,6 +149,7 @@ MODALITIES;
  - Single mother.
         
 - Five children
+ 
 MODALITIES;
  
     The grass of the house replaced,door fixed and painted.
@@ -158,6 +167,7 @@ MODALITIES;
 - Block D.
         
 - Cluster 28.
+ 
 MODALITIES;
   
 The grass replaced,door fixed,painted and the house smeared.
@@ -172,6 +182,7 @@ The grass replaced,door fixed,painted and the house smeared.
  - Block E.
        
  - Cluster 29.
+ 
 MODALITIES;
  
  The grass replaced, door fixed,painted and the house smeared.
@@ -186,6 +197,7 @@ MODALITIES;
  - Block F.
        
  - Cluster 37.
+ 
 MODALITIES;
  
  The grass replaced and the door painted.
