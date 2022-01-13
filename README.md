@@ -74,66 +74,114 @@ HOUSE CATERGORY 1,BENEFICIARIES.
  HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
  
   1.KONGA MAGRATE;
-       - Aged 24yrs.
-       - Disabled.
-       - Single mother.
-       - Two children.
+       
+- Aged 24yrs.
+      
+ - Disabled.
+       
+- Single mother.
+      
+ - Two children.
   
    2.CHANDIA JOSEPHINE;
-       - Aged 30yrs.
-       - Disabled.
-       - Single mother.
-       - Six children.
+       
+- Aged 30yrs.
+       
+- Disabled.
+       
+- Single mother.
+       
+- Six children.
   
     3.KEJI JENIFER;
-       - Aged 77yrs.
-       - Female.
-       - Disabled.
-       - Three children.
-   4.ANTONY ONEN;
-       - Aged 75yrs.
-       - Male.
-       - Disabled.
-       - Cluster 20.
-       - Block E.
+       
+- Aged 77yrs.
+      
+ - Female.
+      
+ - Disabled.
+       
+- Three children.
+  
+ 4.ANTONY ONEN;
+       
+- Aged 75yrs.
+       
+- Male.
+      
+ - Disabled.
+       
+- Cluster 20.
+      
+ - Block E.
+
 HOUSE CATERGORY 3,BENEFICIARY DETAILS;
-    1.PITA BETTY;
-        - Aged 44yrs.
-        - Female.
-        - Block F.
-        - Cluster 47.
-        - Single mother.
-        - Five children
+    
+1.PITA BETTY;
+       
+ - Aged 44yrs.
+        
+- Female.
+        
+- Block F.
+       
+ - Cluster 47.
+       
+ - Single mother.
+        
+- Five children
  
     The grass of the house replaced,door fixed and painted.
-     2.VIOLA JUAN;
-        - Aged 82yrs.
-        - Female.
-        - Single mother.
-        - Disabled.
-        - Block D.
-        - Cluster 28.
-  The grass replaced,door fixed,painted and the house smeared.
+     
+2.VIOLA JUAN;
+        
+- Aged 82yrs.
+        
+- Female.
+        
+- Single mother.
+        
+- Disabled.
+        
+- Block D.
+        
+- Cluster 28.
+  
+The grass replaced,door fixed,painted and the house smeared.
    
-     3.GALE MAGRATE;
-        - Aged 77yrs.
-        - Disabled.
-        - Block E.
-        - Cluster 29.
-  The grass replaced, door fixed,painted and the house smeared.
+     
+3.GALE MAGRATE;
+       
+ - Aged 77yrs.
+       
+ - Disabled.
+       
+ - Block E.
+       
+ - Cluster 29.
+ 
+ The grass replaced, door fixed,painted and the house smeared.
     
      4.RAFAILA DRATE MONTA;
-        - Aged 69yrs.
-        - Single mother.
-        - Block F.
-        - Cluster 37.
-  The grass replaced and the door painted.
+       
+ - Aged 69yrs.
+       
+ - Single mother.
+       
+ - Block F.
+       
+ - Cluster 37.
+ 
+ The grass replaced and the door painted.
 
   DIRECT BENEFICIARIES OF THE PROJECT,YOUTH AGED BETWEEN 18 AND 30YRS.
    
-        - Konga MAGRATE,female,24yrs.
-        - Chandia Josephine,female,30yrs
-        - Keji Grace,female,five children,single mother.
+       
+ - Konga MAGRATE,female,24yrs.
+       
+ - Chandia Josephine,female,30yrs
+       
+ - Keji Grace,female,five children,single mother.
    
   INDIRECT BENEFICIARIES;
  
@@ -159,32 +207,51 @@ HOUSE CATERGORY 3,BENEFICIARY DETAILS;
    hardware operators and the host community as local materials such as grass were purchased from them.
 
   LONG TERM;
+
 - Capacity building for the POC lead organisation.
+
 - Expansion of the PNS project to the neighbouring refugee settlements, such as Ayilo,Nyumajji,
   Agojo etc,That has similar PSN problems.
+
 - Employment opportunities.
+
 - Lessons learned.
  
 ACHIEVEMENTS;
+
 - The project is successfully done.
+
 - It is financially managed.
+
 - Some skills achieved.
+
 - The covered PSN groups saved from natural hazards such as rain.
+
 CHALLENGES;
+
 - The short implementation period.
+
 - Inadequate supervision by the UNHCR engineers.
+
 - Transport hiking.
+
 -Labour shortage,most of the refugee youths are unskilled, as a result the POC 
  Lead organisation opted for outside mansions.
+
 - Lack of coordination between POC lead organisation and stakeholders.
+
 - Child protection issues raised by the communities during the PNS project motoring
   and assessment.
+
 - Most of the PNS communities lack waste management systems e.g latrines and dustbins.
+
 - POC lead organisation lacks technical personels for particular projects.
  
   FUTURE OPPORTUNITIES
+
 - To skill the refugee communities to overcome the problems of labour shortage,skills like building
   Construction, brick laying and concrete practices,electronic engineering ,to mention but afew.
+
 - To organise mass mobilisation and awareness to communities about the dangers of poor waste management systems.
 
 
