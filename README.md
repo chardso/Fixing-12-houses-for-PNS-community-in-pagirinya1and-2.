@@ -81,7 +81,7 @@ The 12 houses were divided into three catergories as follows;
        
 - Single mother.
       
- - Two children.
+- Two children.
   
    2.CHANDIA JOSEPHINE;
        
@@ -236,8 +236,10 @@ CHALLENGES;
 
 - Transport hiking.
 
--Labour shortage,most of the refugee youths are unskilled, as a result the POC 
- Lead organisation opted for outside mansions.
+
+- Labour shortage,most of the refugee youths are unskilled,
+ as a result the POC 
+ Led organisation opted for outside mansions.
 
 - Lack of coordination between POC led organisation and stakeholders.
 
