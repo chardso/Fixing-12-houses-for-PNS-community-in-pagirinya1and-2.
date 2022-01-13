@@ -30,6 +30,8 @@ The 12 houses were divided into three catergories as follows;
     
  
 - Five children.
+MODALITIES;
+
     
  2.ANTAZO LURI;
 
@@ -44,6 +46,7 @@ The 12 houses were divided into three catergories as follows;
 - Cluster 2.
      
 - Single mother.
+MODALITIES;
 
  3.OLGA ALIA;
        
@@ -58,6 +61,7 @@ The 12 houses were divided into three catergories as follows;
 - Cluster 7.
 
 - Single mother.
+MODALITIES;
  
  4.REBECCA OPIA; 
 
@@ -72,6 +76,7 @@ The 12 houses were divided into three catergories as follows;
 - Block B.
 
 - Cluster 6.
+MODALITIES;
 
  HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
  
@@ -84,6 +89,7 @@ The 12 houses were divided into three catergories as follows;
 - Single mother.
       
 - Two children.
+MODALITIES;
   
    2.CHANDIA JOSEPHINE;
        
@@ -94,6 +100,7 @@ The 12 houses were divided into three catergories as follows;
 - Single mother.
        
 - Six children.
+MODALIES;
   
     3.KEJI JENIFER;
        
@@ -104,6 +111,7 @@ The 12 houses were divided into three catergories as follows;
  - Disabled.
        
 - Three children.
+MODALITIES;
   
  4.ANTONY ONEN;
        
@@ -116,6 +124,7 @@ The 12 houses were divided into three catergories as follows;
 - Cluster 20.
       
  - Block E.
+MODALITIES;
 
    HOUSE CATERGORY 3,BENEFICIARY DETAILS;
     
@@ -132,6 +141,7 @@ The 12 houses were divided into three catergories as follows;
  - Single mother.
         
 - Five children
+MODALITIES;
  
     The grass of the house replaced,door fixed and painted.
      
@@ -148,6 +158,7 @@ The 12 houses were divided into three catergories as follows;
 - Block D.
         
 - Cluster 28.
+MODALITIES;
   
 The grass replaced,door fixed,painted and the house smeared.
    
@@ -161,6 +172,7 @@ The grass replaced,door fixed,painted and the house smeared.
  - Block E.
        
  - Cluster 29.
+MODALITIES;
  
  The grass replaced, door fixed,painted and the house smeared.
     
@@ -174,6 +186,7 @@ The grass replaced,door fixed,painted and the house smeared.
  - Block F.
        
  - Cluster 37.
+MODALITIES;
  
  The grass replaced and the door painted.
 
