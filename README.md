@@ -1,5 +1,5 @@
-# Fixing-12-houses-for-PNS-community-in-pagirinya1and-2.
-A project given to the POC lead organisation,Youth empowerment foundation,located in pagirinya refugee settlement,targeting a population of 60people,with an actual implementation period of 30days.
+# Fixing-12-houses-for-PSN-community-in-pagirinya1and-2.
+A project given to the POC led organisation,Youth empowerment foundation,located in pagirinya refugee settlement,targeting a population of 60people,with an actual implementation period of 30days.
 
 The 12 houses were divided into three catergories as follows;
 
@@ -244,9 +244,9 @@ CHALLENGES;
 - Child protection issues raised by the communities during the PNS project motoring
   and assessment.
 
-- Most of the PNS communities lack waste management systems e.g latrines and dustbins.
+- Most of the PSN communities lack waste management systems e.g latrines and dustbins.
 
-- POC lead organisation lacks technical personels for particular projects.
+- POC led organisation lacks technical personels for particular projects.
  
   FUTURE OPPORTUNITIES
 
