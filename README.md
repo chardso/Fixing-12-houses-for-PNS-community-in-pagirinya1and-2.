@@ -58,19 +58,19 @@ HOUSE CATERGORY 1,BENEFICIARIES.
 
 - Single mother.
  
- 4.REBECCA OPIA;
-      
-       - Aged 44yrs.
-       
-       - Female.
-       
-       - Disabled.
-      
-       - Three children.
-      
-       - Block B.
-       
-       - Cluster 6.
+ 4.REBECCA OPIA; 
+
+- Aged 44yrs. 
+
+- Female.
+
+- Disabled.
+
+- Three children.
+
+- Block B.
+
+- Cluster 6.
 
  HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
  
@@ -116,7 +116,7 @@ HOUSE CATERGORY 1,BENEFICIARIES.
       
  - Block E.
 
-HOUSE CATERGORY 3,BENEFICIARY DETAILS;
+   HOUSE CATERGORY 3,BENEFICIARY DETAILS;
     
 1.PITA BETTY;
        
