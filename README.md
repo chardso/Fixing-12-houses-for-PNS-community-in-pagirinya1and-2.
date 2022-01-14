@@ -307,6 +307,11 @@ CHALLENGES;
 
 - To organise mass mobilisation and awareness to communities about the dangers of poor waste management systems.
 
+OTHER REMARKS;
+
+- The POC Led organization applauds UNHCR for the opportunity given,
+  It has put smiles on the faces of the PSN communities, provided capacity building and hopes for opportunities to come in the near future.
+
 
 
 
