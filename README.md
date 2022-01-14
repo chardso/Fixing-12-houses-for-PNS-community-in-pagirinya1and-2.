@@ -58,7 +58,7 @@ The 12 houses were divided into three catergories as follows;
      
 - Single mother.
  
-MODALITIES;
+  MODALITIES;
 
  3.OLGA ALIA;
        
@@ -74,7 +74,7 @@ MODALITIES;
 
 - Single mother.
  
-MODALITIES;
+  MODALITIES;
  
  4.REBECCA OPIA; 
 
@@ -90,7 +90,7 @@ MODALITIES;
 
 - Cluster 6.
  
-MODALITIES;
+  MODALITIES;
 
  HOUSE CATERGORY 2 ,BENEFICIARY DETAILS;
  
@@ -104,7 +104,7 @@ MODALITIES;
       
 - Two children.
  
-MODALITIES;
+  MODALITIES;
   
    2.CHANDIA JOSEPHINE;
        
@@ -116,7 +116,7 @@ MODALITIES;
        
 - Six children.
  
-MODALIES;
+  MODALIES;
   
 
 3.KEJI JENIFER;
@@ -129,7 +129,7 @@ MODALIES;
        
 - Three children.
  
-MODALITIES;
+  MODALITIES;
   
  4.ANTONY ONEN;
        
@@ -143,7 +143,7 @@ MODALITIES;
       
  - Block E.
  
-MODALITIES;
+  MODALITIES;
 
    HOUSE CATERGORY 3,BENEFICIARY DETAILS;
     
@@ -161,7 +161,7 @@ MODALITIES;
         
 - Five children
  
-MODALITIES;
+  MODALITIES;
 
 - Roofing(and grass replaced)
 
@@ -185,7 +185,7 @@ MODALITIES;
         
 - Cluster 28.
  
-MODALITIES;
+  MODALITIES;
 
 - Roofing 
 
@@ -206,9 +206,15 @@ MODALITIES;
        
  - Cluster 29.
  
-MODALITIES;
+  MODALITIES;
+
+- Roofing
+
+- Door fixing and painting
+
+- Smearing.
  
- The grass replaced, door fixed,painted and the house smeared.
+ 
     
 
  4.RAFAILA DRATE MONTA;
@@ -221,7 +227,13 @@ MODALITIES;
        
  - Cluster 37.
  
-MODALITIES;
+  MODALITIES;
+
+- Roofing
+
+- Door fixing and painting
+
+- Smearing
  
  The grass replaced and the door painted.
 
@@ -268,7 +280,7 @@ MODALITIES;
 
 - Lessons learned.
  
-ACHIEVEMENTS;
+   ACHIEVEMENTS;
 
 - The project is successfully done.
 
@@ -278,7 +290,7 @@ ACHIEVEMENTS;
 
 - The covered PSN groups saved from natural hazards such as rain.
 
-CHALLENGES;
+    CHALLENGES;
 
 - The short implementation period.
 
@@ -307,7 +319,7 @@ CHALLENGES;
 
 - To organise mass mobilisation and awareness to communities about the dangers of poor waste management systems.
 
-OTHER REMARKS;
+    OTHER REMARKS;
 
 - The POC Led organization applauds UNHCR for the opportunity given,
   It has put smiles on the faces of the PSN communities, provided capacity building and hopes for opportunities to come in the near future.
