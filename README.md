@@ -33,6 +33,16 @@ The 12 houses were divided into three catergories as follows;
 
  MODALITIES;
 
+- Roofing
+
+- Interior plastering
+
+- Screeding.
+
+- Apron
+
+- Painting
+
     
  2.ANTAZO LURI;
 
