@@ -162,8 +162,14 @@ MODALITIES;
 - Five children
  
 MODALITIES;
+
+- Roofing(and grass replaced)
+
+- Door fixing and painting
+
+- smearing
  
-    The grass of the house replaced,door fixed and painted.
+    
      
 2.VIOLA JUAN;
         
@@ -180,8 +186,14 @@ MODALITIES;
 - Cluster 28.
  
 MODALITIES;
+
+- Roofing 
+
+- Door fixing and painting
+
+- Smearing.
   
-The grass replaced,door fixed,painted and the house smeared.
+
    
      
 3.GALE MAGRATE;
